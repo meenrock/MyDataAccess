@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDataAccess", "MyDataAccess\MyDataAccess.csproj", "{A41283E2-5645-4B9F-88EA-9E2FE1547E81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonTypes", "CommonTypes\CommonTypes.csproj", "{21A13B22-7D46-4A7E-8AE2-3E2C2BBF2D45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDataAccess.MySql", "MyDataAccess.MySql\MyDataAccess.MySql.csproj", "{846172D0-9F05-457F-A283-F4D9F8BCBDD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDataAccess.MySql.Migration", "MyDataAccess.MySql.Migration\MyDataAccess.MySql.Migration.csproj", "{40D4865C-23C1-422A-87EB-9CB283019385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServices", "IdentityServices\IdentityServices.csproj", "{C9741C76-1139-4A2D-8869-E8F7304A6BA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A41283E2-5645-4B9F-88EA-9E2FE1547E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41283E2-5645-4B9F-88EA-9E2FE1547E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41283E2-5645-4B9F-88EA-9E2FE1547E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41283E2-5645-4B9F-88EA-9E2FE1547E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21A13B22-7D46-4A7E-8AE2-3E2C2BBF2D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A13B22-7D46-4A7E-8AE2-3E2C2BBF2D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A13B22-7D46-4A7E-8AE2-3E2C2BBF2D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A13B22-7D46-4A7E-8AE2-3E2C2BBF2D45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{846172D0-9F05-457F-A283-F4D9F8BCBDD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{846172D0-9F05-457F-A283-F4D9F8BCBDD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{846172D0-9F05-457F-A283-F4D9F8BCBDD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{846172D0-9F05-457F-A283-F4D9F8BCBDD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D4865C-23C1-422A-87EB-9CB283019385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D4865C-23C1-422A-87EB-9CB283019385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D4865C-23C1-422A-87EB-9CB283019385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D4865C-23C1-422A-87EB-9CB283019385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9741C76-1139-4A2D-8869-E8F7304A6BA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9741C76-1139-4A2D-8869-E8F7304A6BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9741C76-1139-4A2D-8869-E8F7304A6BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9741C76-1139-4A2D-8869-E8F7304A6BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
